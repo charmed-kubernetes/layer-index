@@ -3,5 +3,5 @@
   "name": "Snap layer",
   "repo": "https://github.com/charmed-kubernetes/layer-snap",
     "summary": "Snap layer for installing and updating Snap packages",
-  "docs": "https://github.com/charmed-kubernetes/layer-snap/README.md"
+  "docs": "https://github.com/charmed-kubernetes/layer-snap/blob/master/README.md"
 }

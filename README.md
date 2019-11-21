@@ -73,7 +73,7 @@ List of Base Layers
 | conda-api | [Repo](https://github.com/omnivector-solutions/layer-conda-api) | [Docs](https://github.com/omnivector-solutions/layer-conda-api#readme) | Conda API | Conda API layer |
 | consul-base | [Repo](https://github.com/omnivector-solutions/layer-consul-base) | [Docs](https://github.com/omnivector-solutions/layer-consul-base#readme) | Consul Base | Reactive base layer for consul |
 | container-runtime-common | [Repo](https://github.com/charmed-kubernetes/layer-container-runtime-common.git) | [Docs](https://github.com/charmed-kubernetes/layer-container-runtime-common.git#readme) | Container Runtime Common | Shared between container runtimes |
-| coordinator | [Repo](https://git.launchpad.net/layer-coordinator ) | [Docs](https://git.launchpad.net/layer-coordinator/tree/README.md) | Coordinator Layer | Coordinate operations between units in a service, such as rolling restarts. |
+| coordinator | [Repo](https://github.com/charmed-kubernetes/layer-coordinator ) | [Docs](https://github.com/charmed-kubernetes/layer-coordinator/blob/master/README.md) | Coordinator Layer | Coordinate operations between units in a service, such as rolling restarts. |
 | debug | [Repo](https://github.com/charmed-kubernetes/layer-debug.git) | [Docs](https://github.com/charmed-kubernetes/layer-debug.git#readme) | debug | Provides a troubleshooting debug action |
 | django | [Repo](https://github.com/marcoceppi/layer-django.git) | [Docs](https://github.com/marcoceppi/layer-django.git#readme) | Django | Django / GUNICORN |
 | docker-resource | [Repo](https://github.com/juju-solutions/layer-docker-resource.git) | [Docs](https://github.com/juju-solutions/layer-docker-resource.git#readme) | Docker Resource Layer | Layer for managing charm resources of type 'docker' |
@@ -130,7 +130,7 @@ List of Base Layers
 | ruby | [Repo](https://github.com/battlemidget/juju-layer-ruby.git) | [Docs](https://github.com/battlemidget/juju-layer-ruby.git#readme) | Ruby | Build layer for Ruby applications |
 | slurm | [Repo](https://github.com/omnivector-solutions/layer-slurm) | [Docs](https://github.com/omnivector-solutions/layer-slurm#readme) | slurm | Base layer for Slurm |
 | snap-action | [Repo](https://github.com/lutostag/layer-snap-action.git) | [Docs](https://github.com/lutostag/layer-snap-action.git#readme) | snap-action | Perform snap commands via an action |
-| snap | [Repo](https://github.com/charmed-kubernetes/layer-snap) | [Docs](https://github.com/charmed-kubernetes/layer-snap#readme) | Snap layer | Snap layer for installing and updating Snap packages |
+| snap | [Repo](https://github.com/charmed-kubernetes/layer-snap) | [Docs](https://github.com/charmed-kubernetes/layer-snap/blob/master/README.md) | Snap layer | Snap layer for installing and updating Snap packages |
 | sshproxy | [Repo](https://github.com/AdamIsrael/layer-sshproxy) | [Docs](https://github.com/AdamIsrael/layer-sshproxy#readme) | sshproxy | A layer intended to ease the development of charms that need to execute commands over SSH. |
 | status | [Repo](https://github.com/charmed-kubernetes/layer-status) | [Docs](https://github.com/charmed-kubernetes/layer-status#readme) | Status management layer | Manage workload status in reactive charms |
 | storage | [Repo](https://github.com/juju-solutions/layer-storage) | [Docs](https://github.com/juju-solutions/layer-storage#readme) | Storage | A charm layer to handle Juju attached storage devices. |
