@@ -1,7 +1,7 @@
 {
   "id": "coordinator",
   "name": "Coordinator Layer",
-  "repo": "https://git.launchpad.net/layer-coordinator ",
+  "repo": "https://github.com/charmed-kubernetes/layer-coordinator ",
   "summary": "Coordinate operations between units in a service, such as rolling restarts.",
-  "docs": "https://git.launchpad.net/layer-coordinator/tree/README.md"
+  "docs": "https://github.com/charmed-kubernetes/layer-coordinator/blob/master/README.md"
 }
