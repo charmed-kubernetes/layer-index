@@ -1,6 +1,6 @@
 {
   "id": "mysql",
   "name": "mysql",
-  "repo": "https://github.com/johnsca/juju-relation-mysql.git",
+  "repo": "https://github.com/charmed-kubernetes/juju-relation-mysql.git",
   "summary": "Standard MySQL interface with generated, per-service databases"
 }
