@@ -170,7 +170,7 @@ List of Interface Layers
 | cassandra | [Repo](https://git.launchpad.net/interface-cassandra) | [Docs](https://git.launchpad.net/tree/README.md) | cassandra | Cassandra database client interface |
 | ceph-admin | [Repo](https://github.com/charmed-kubernetes/juju-interface-ceph-admin) | [Docs](https://github.com/charmed-kubernetes/juju-interface-ceph-admin#readme) | ceph-admin | EXPERIMENTAL: The admin interface for ceph will provide the user with the ceph admin key |
 | ceph-base | [Repo](https://github.com/openstack/charm-layer-ceph-base) | [Docs](https://github.com/openstack/charm-layer-ceph-base#readme) | Ceph Base Layer | Ceph base layer |
-| ceph-client | [Repo](https://github.com/charmed-kubernetes/charm-interface-ceph-client) | [Docs](https://github.com/charmed-kubernetes/charm-interface-ceph-client#readme) | ceph-client | Ceph Client interface |
+| ceph-client | [Repo](https://github.com/charmed-kubernetes/charm-interface-ceph-client) | [Docs](https://opendev.org/openstack/charm-interface-ceph-client/src/branch/master/src/ceph_client/README.md) | ceph-client | Ceph Client interface |
 | ceph-mds | [Repo](https://opendev.org/openstack/charm-interface-ceph-client.git) | [Docs](https://opendev.org/openstack/charm-interface-ceph-client/src/branch/master/src/ceph_mds/README.md) | ceph-mds | CephFS interface to the MDS relation on ceph-mon |
 | ceph-osd | [Repo](https://github.com/ChrisMacNaughton/juju-interface-ceph-osd) | [Docs](https://github.com/ChrisMacNaughton/juju-interface-ceph-osd#readme) | ceph-osd | ceph osd relation |
 | ceph-radosgw | [Repo](https://github.com/ChrisMacNaughton/juju-interface-ceph-radosgw) | [Docs](https://github.com/ChrisMacNaughton/juju-interface-ceph-radosgw#readme) | ceph-radosgw | Ceph RadosGW interface |
